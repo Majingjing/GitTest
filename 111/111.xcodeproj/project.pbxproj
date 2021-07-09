@@ -16,7 +16,6 @@
 		8B49F7942697E5390001AF35 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B49F7932697E5390001AF35 /* main.m */; };
 		8B49F79E2697E5390001AF35 /* _11Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B49F79D2697E5390001AF35 /* _11Tests.m */; };
 		8B49F7A92697E53A0001AF35 /* _11UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B49F7A82697E53A0001AF35 /* _11UITests.m */; };
-		8B49F7B82697E57B0001AF35 /* MJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B49F7B72697E57B0001AF35 /* MJViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +54,6 @@
 		8B49F7A42697E53A0001AF35 /* 111UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 111UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B49F7A82697E53A0001AF35 /* _11UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _11UITests.m; sourceTree = "<group>"; };
 		8B49F7AA2697E53A0001AF35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B49F7B62697E57B0001AF35 /* MJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MJViewController.h; sourceTree = "<group>"; };
-		8B49F7B72697E57B0001AF35 /* MJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MJViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,8 +108,6 @@
 				8B49F7822697E5380001AF35 /* AppDelegate.m */,
 				8B49F7842697E5380001AF35 /* SceneDelegate.h */,
 				8B49F7852697E5380001AF35 /* SceneDelegate.m */,
-				8B49F7B62697E57B0001AF35 /* MJViewController.h */,
-				8B49F7B72697E57B0001AF35 /* MJViewController.m */,
 				8B49F7872697E5380001AF35 /* ViewController.h */,
 				8B49F7882697E5380001AF35 /* ViewController.m */,
 				8B49F78A2697E5380001AF35 /* Main.storyboard */,
@@ -271,7 +266,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B49F7B82697E57B0001AF35 /* MJViewController.m in Sources */,
 				8B49F7892697E5380001AF35 /* ViewController.m in Sources */,
 				8B49F7832697E5380001AF35 /* AppDelegate.m in Sources */,
 				8B49F7942697E5390001AF35 /* main.m in Sources */,
